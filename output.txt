@@ -1,0 +1,6 @@
+John m 18
+William m 22
+Chloe f 21
+Jack m 19
+Jenny d 18
+Sophia f 21
